@@ -1,0 +1,5 @@
+1. Implement a dynamic array (that is a C++ vector). You are only allowed to use C style arrays. Assume the datatype is an int.
+Solution: dynamic_Array.py
+
+2. Answer the following question hw_17.pdf
+Solution: Hands_On_11_Q2.pdf
